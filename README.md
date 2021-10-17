@@ -1,2 +1,2 @@
 # Introducao-JavaScript
-Primeiros códigos Aplicando JavaScript no HTML
+Introduzindo JavaScript em HTML
